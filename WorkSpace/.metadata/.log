@@ -1,98 +1,17 @@
-!SESSION 2026-11-19 16:17:16.762 -----------------------------------------------
+!SESSION 2026-11-19 17:29:03.656 -----------------------------------------------
 eclipse.buildId=Version 2.2.0
 java.version=21.0.10
 java.vendor=Eclipse Adoptium
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=he_IL
 Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
-!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-11-19 16:17:27.094
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-11-19 17:29:13.096
 !MESSAGE Log4j2 initialized with config file C:\Projects\FreeRTOS_Nucleo_F756_Template\WorkSpace\.metadata\.log4j2.xml
 
-!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-11-19 16:17:33.576
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-11-19 17:29:19.766
 !MESSAGE Started RMI Server, listening on port 41337
 
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 16:17:50.428
-!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
-COM11
-COM7
-COM4
-COM8
-COM5
-COM10
-COM12
-
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 16:17:50.430
-!MESSAGE port: COM11
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 16:17:50.430
-!MESSAGE port: COM7
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 16:17:50.431
-!MESSAGE port: COM4
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 16:17:50.431
-!MESSAGE port: COM8
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 16:17:50.432
-!MESSAGE port: COM5
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 16:17:50.434
-!MESSAGE port: COM10
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 16:17:50.436
-!MESSAGE port: COM12
-
-!ENTRY org.eclipse.cdt.core 1 0 2026-11-19 16:18:01.761
-!MESSAGE Indexed 'FreeRTOS_Nucleo_F756_Template' (44 sources, 155 headers) in 9.82 sec: 18,222 declarations; 101,856 references; 3 unresolved inclusions; 185 syntax errors; 153 unresolved names (0.13%)
-
-!ENTRY org.eclipse.cdt.core 1 0 2026-11-19 16:21:47.812
-!MESSAGE Indexed 'FreeRTOS_Nucleo_F756_Template' (43 sources, 153 headers) in 6.23 sec: 16,544 declarations; 98,899 references; 3 unresolved inclusions; 180 syntax errors; 153 unresolved names (0.13%)
-
-!ENTRY org.eclipse.cdt.core 1 0 2026-11-19 16:34:51.713
-!MESSAGE Indexed 'FreeRTOS_Nucleo_F756_Template' (44 sources, 152 headers) in 3.49 sec: 16,427 declarations; 98,837 references; 3 unresolved inclusions; 181 syntax errors; 155 unresolved names (0.13%)
-
-!ENTRY org.eclipse.cdt.core 1 0 2026-11-19 16:44:58.959
-!MESSAGE Indexed 'FreeRTOS_Nucleo_F756_Template' (44 sources, 151 headers) in 3.1 sec: 16,417 declarations; 98,817 references; 3 unresolved inclusions; 180 syntax errors; 155 unresolved names (0.13%)
-
-!ENTRY org.eclipse.cdt.core 1 0 2026-11-19 16:46:46.030
-!MESSAGE Indexed 'FreeRTOS_Nucleo_F756_Template' (44 sources, 151 headers) in 3.19 sec: 16,417 declarations; 98,817 references; 3 unresolved inclusions; 180 syntax errors; 155 unresolved names (0.13%)
-
-!ENTRY org.eclipse.cdt.core 1 0 2026-11-19 17:00:14.951
-!MESSAGE Indexed 'FreeRTOS_Nucleo_F756_Template' (44 sources, 151 headers) in 3.58 sec: 16,499 declarations; 99,342 references; 3 unresolved inclusions; 180 syntax errors; 153 unresolved names (0.13%)
-
-!ENTRY org.eclipse.cdt.core 1 0 2026-11-19 17:14:20.581
-!MESSAGE Indexed 'FreeRTOS_Nucleo_F756_Template' (48 sources, 152 headers) in 3.25 sec: 16,541 declarations; 99,469 references; 3 unresolved inclusions; 180 syntax errors; 153 unresolved names (0.13%)
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:40.511
-!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
-COM11
-COM7
-COM4
-COM8
-COM5
-COM10
-
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:40.512
-!MESSAGE port: COM11
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:40.513
-!MESSAGE port: COM7
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:40.513
-!MESSAGE port: COM4
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:40.514
-!MESSAGE port: COM8
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:40.514
-!MESSAGE port: COM5
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:40.515
-!MESSAGE port: COM10
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:56.878
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:29:36.582
 !MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
 COM11
 COM7
@@ -103,253 +22,29 @@ COM10
 COM9
 
 
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:56.879
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:29:36.614
 !MESSAGE port: COM11
 
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:56.881
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:29:36.614
 !MESSAGE port: COM7
 
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:56.882
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:29:36.615
 !MESSAGE port: COM4
 
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:56.883
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:29:36.616
 !MESSAGE port: COM8
 
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:56.883
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:29:36.617
 !MESSAGE port: COM5
 
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:56.885
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:29:36.619
 !MESSAGE port: COM10
 
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:20:56.887
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:29:36.620
 !MESSAGE port: COM9
 
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:21:12.817
-!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
-COM11
-COM7
-COM4
-COM8
-COM5
-COM10
-COM9
+!ENTRY org.eclipse.cdt.core 1 0 2026-11-19 17:29:38.018
+!MESSAGE Indexed 'FreeRTOS_Nucleo_F756_Template' (42 sources, 150 headers) in 5.99 sec: 16,888 declarations; 92,568 references; 3 unresolved inclusions; 182 syntax errors; 153 unresolved names (0.14%)
 
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:21:12.818
-!MESSAGE port: COM11
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:21:12.819
-!MESSAGE port: COM7
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:21:12.820
-!MESSAGE port: COM4
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:21:12.821
-!MESSAGE port: COM8
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:21:12.821
-!MESSAGE port: COM5
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:21:12.822
-!MESSAGE port: COM10
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:21:12.823
-!MESSAGE port: COM9
-
-!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2026-11-19 17:21:38.559
-!MESSAGE Error in final launch sequence:
-
-Failed to execute MI command:
-target remote localhost:61234
-
-Error message from debugger back end:
-could not connect (error 138): The system tried to join a drive to a directory on a joined drive.
-!STACK 1
-org.eclipse.core.runtime.CoreException: Failed to execute MI command:
-target remote localhost:61234
-
-Error message from debugger back end:
-could not connect (error 138): The system tried to join a drive to a directory on a joined drive.
-	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:112)
-	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:254)
-	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:111)
-	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:99)
-	at com.st.stm32cube.ide.mcu.debug.launch.DSFDelegate.launch(DSFDelegate.java:335)
-	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:778)
-	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:689)
-	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1052)
-	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1254)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
-Caused by: java.lang.Exception: could not connect (error 138): The system tried to join a drive to a directory on a joined drive.
-	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:1024)
-	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:853)
-!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2026-11-19 17:21:38.559
-!MESSAGE Failed to execute MI command:
-target remote localhost:61234
-
-Error message from debugger back end:
-could not connect (error 138): The system tried to join a drive to a directory on a joined drive.
-!STACK 0
-java.lang.Exception: could not connect (error 138): The system tried to join a drive to a directory on a joined drive.
-	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:1024)
-	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:853)
-
-!ENTRY com.st.stm32cube.ide.mcu.debug 2 2 2026-11-19 17:22:14.363
-!MESSAGE ST-LINK firmware verification, Check required failed
-
-!ENTRY com.st.stm32cube.ide.mcu.debug 2 2 2026-11-19 17:22:14.364
-!MESSAGE ST-LINK firmware verification, No latest info found: -1
-
-!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2026-11-19 17:22:33.972
-!MESSAGE Error in final launch sequence:
-
-Failed to execute MI command:
-target remote localhost:61234
-
-Error message from debugger back end:
-could not connect (error 138): The system tried to join a drive to a directory on a joined drive.
-!STACK 1
-org.eclipse.core.runtime.CoreException: Failed to execute MI command:
-target remote localhost:61234
-
-Error message from debugger back end:
-could not connect (error 138): The system tried to join a drive to a directory on a joined drive.
-	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:112)
-	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:254)
-	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:111)
-	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:99)
-	at com.st.stm32cube.ide.mcu.debug.launch.DSFDelegate.launch(DSFDelegate.java:337)
-	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:778)
-	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:689)
-	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1052)
-	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1254)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
-Caused by: java.lang.Exception: could not connect (error 138): The system tried to join a drive to a directory on a joined drive.
-	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:1024)
-	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:853)
-!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10004 2026-11-19 17:22:33.972
-!MESSAGE Failed to execute MI command:
-target remote localhost:61234
-
-Error message from debugger back end:
-could not connect (error 138): The system tried to join a drive to a directory on a joined drive.
-!STACK 0
-java.lang.Exception: could not connect (error 138): The system tried to join a drive to a directory on a joined drive.
-	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:1024)
-	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:853)
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:22:45.986
-!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
-COM11
-COM7
-COM4
-COM8
-COM5
-COM10
-
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:22:45.986
-!MESSAGE port: COM11
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:22:45.988
-!MESSAGE port: COM7
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:22:45.988
-!MESSAGE port: COM4
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:22:45.989
-!MESSAGE port: COM8
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:22:45.989
-!MESSAGE port: COM5
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:22:45.989
-!MESSAGE port: COM10
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:01.868
-!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
-COM11
-COM7
-COM4
-COM8
-COM5
-COM10
-
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:01.869
-!MESSAGE port: COM11
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:01.869
-!MESSAGE port: COM7
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:01.870
-!MESSAGE port: COM4
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:01.870
-!MESSAGE port: COM8
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:01.870
-!MESSAGE port: COM5
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:01.871
-!MESSAGE port: COM10
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:17.737
-!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
-COM11
-COM7
-COM4
-COM8
-COM5
-COM10
-
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:17.740
-!MESSAGE port: COM11
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:17.740
-!MESSAGE port: COM7
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:17.740
-!MESSAGE port: COM4
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:17.741
-!MESSAGE port: COM8
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:17.741
-!MESSAGE port: COM5
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:17.742
-!MESSAGE port: COM10
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:33.709
-!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
-COM11
-COM7
-COM4
-COM8
-COM5
-COM10
-COM9
-
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:33.709
-!MESSAGE port: COM11
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:33.710
-!MESSAGE port: COM7
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:33.711
-!MESSAGE port: COM4
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:33.711
-!MESSAGE port: COM8
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:33.713
-!MESSAGE port: COM5
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:33.713
-!MESSAGE port: COM10
-
-!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 17:23:33.714
-!MESSAGE port: COM9
+!ENTRY org.eclipse.cdt.core 1 0 2026-11-19 18:08:04.119
+!MESSAGE Indexed 'FreeRTOS_Nucleo_F756_Template' (41 sources, 146 headers) in 3.15 sec: 15,029 declarations; 88,438 references; 4 unresolved inclusions; 180 syntax errors; 153 unresolved names (0.15%)
