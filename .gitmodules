@@ -1,0 +1,15 @@
+[submodule "Project/Lib/SEGGER/Git/RTT"]
+	path = Project/Lib/SEGGER/Git/RTT
+	url = https://github.com/SEGGERMicro/RTT
+[submodule "Project/Lib/SEGGER/Git/SystemView"]
+	path = Project/Lib/SEGGER/Git/SystemView
+	url = https://github.com/SEGGERMicro/SystemView
+[submodule "Project/Lib/ARM/Git/CMSIS-FreeRTOS"]
+	path = Project/Lib/ARM/Git/CMSIS-FreeRTOS
+	url = https://github.com/ARM-software/CMSIS-FreeRTOS
+[submodule "Project/Lib/ARM/Git/CMSIS_5"]
+	path = Project/Lib/ARM/Git/CMSIS_5
+	url = https://github.com/ARM-software/CMSIS_5
+[submodule "Project/Lib/ARM/Git/CMSIS_6"]
+	path = Project/Lib/ARM/Git/CMSIS_6
+	url = https://github.com/ARM-software/CMSIS_6
