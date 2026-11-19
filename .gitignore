@@ -54,3 +54,5 @@ dkms.conf
 # debug information files
 *.dwo
 WorkSpace/
+Project/FreeRTOS_Nucleo_F756_Template/Debug/Middlewares/Third_Party/ARM_RTOS_FreeRTOS/Source/subdir.mk
+Project/FreeRTOS_Nucleo_F756_Template/Debug/

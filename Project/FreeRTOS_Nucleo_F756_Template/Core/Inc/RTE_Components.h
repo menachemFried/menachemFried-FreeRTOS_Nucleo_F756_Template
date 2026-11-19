@@ -28,7 +28,7 @@
 #define RTE_RTOS_FreeRTOS_COROUTINE /* RTOS FreeRTOS Co-routines */
 #define RTE_RTOS_FreeRTOS_EVENTGROUPS /* RTOS FreeRTOS Event Groups */
 #define RTE_RTOS_FreeRTOS_HEAP_4 /* RTOS FreeRTOS Heap 4 */
-#define RTE_RTOS_FreeRTOS_MESSAGE_BUFFER /* RTOS FreeRTOS Message Buffers */
+#define RTE_RTOS_FreeRTOS_STREAM_BUFFER /* RTOS FreeRTOS Stream Buffers */
 #define RTE_RTOS_FreeRTOS_TIMERS /* RTOS FreeRTOS Timers */
 
 #endif /* __RTE_COMPONENTS_H__ */
