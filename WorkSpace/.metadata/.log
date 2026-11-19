@@ -1,0 +1,47 @@
+!SESSION 2026-11-19 13:07:40.007 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=he_IL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Projects\FreeRTOS_Nucleo_F756_Template\WorkSpace
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-11-19 13:07:47.488
+!MESSAGE Log4j2 initialized with config file C:\Projects\FreeRTOS_Nucleo_F756_Template\WorkSpace\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-11-19 13:07:52.483
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 13:08:09.376
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM11
+COM7
+COM4
+COM8
+COM5
+COM10
+COM12
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 13:08:09.377
+!MESSAGE port: COM11
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 13:08:09.377
+!MESSAGE port: COM7
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 13:08:09.379
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 13:08:09.380
+!MESSAGE port: COM8
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 13:08:09.381
+!MESSAGE port: COM5
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 13:08:09.382
+!MESSAGE port: COM10
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-11-19 13:08:09.382
+!MESSAGE port: COM12
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-11-19 13:08:15.187
+!MESSAGE Indexed 'FreeRTOS_Nucleo_F756_Template' (34 sources, 125 headers) in 5.13 sec: 13,697 declarations; 85,348 references; 2 unresolved inclusions; 42 syntax errors; 145 unresolved names (0.15%)
